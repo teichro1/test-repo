@@ -1,1 +1,1 @@
-this is changed foo. changed from local
+this is changed foo. Now edited from remote.
