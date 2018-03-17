@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is changed foo. Now edited from master.
-=======
-this is changed foo. Now edited from appletree.
->>>>>>> appletree
+this is changed foo. Now edited from master in remote.
