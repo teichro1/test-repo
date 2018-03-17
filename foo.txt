@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is changed foo. Now edited from master.
+=======
+this is changed foo. Now edited from appletree.
+>>>>>>> appletree
