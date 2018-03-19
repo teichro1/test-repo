@@ -2,4 +2,6 @@ This is changed foo. Now edited from master in remote.
 cahnge line 2
 fixed
 
-can I rebase?
+
+change line 6
+and line 7
