@@ -1,5 +1,5 @@
 This is changed foo. Now edited from master in remote.
-cahnge line 2
+
 fixed
 
 
