@@ -1,11 +1,3 @@
-this is changed foo. Now edited from master in remote.
+This is changed foo. Now edited from master in remote.
 
-<<<<<<< HEAD
-Here's an edit.
-=======
-Here's an edit form orange-tree.
-
-
-
-Testing form orange-tree.
->>>>>>> 41f8e48368d93af6e8f224ef7f6e78fea8a10ca6
+fixed
