@@ -1,4 +1,5 @@
-This is changed foo. Now edited from master in remote. Lets change this too
-just changing this line
+This is changed foo. Now edited from master in remote.
+
 fixed
+
 
