@@ -1,7 +1,8 @@
 This is changed foo. Now edited from master in remote.
 
-Here's an edit.
+fixed
 
-Here's an edit from master in remote.
 
-Test for different types of merges (from master remote).
+testing squash from master
+
+again adding more
