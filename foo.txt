@@ -2,6 +2,3 @@ This is changed foo. Now edited from master in remote.
 
 fixed
 
-
-change line 6
-and line 7
