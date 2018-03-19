@@ -1,3 +1,6 @@
 This is changed foo. Now edited from master in remote.
 
 fixed
+
+
+testing squash from master
