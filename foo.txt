@@ -2,6 +2,6 @@ This is changed foo. Now edited from master in remote.
 
 fixed
 
-
+cahnpma;sc
 change line 6
 and line 7
